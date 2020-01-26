@@ -1,0 +1,28 @@
+{
+  "name": "dev_corp_testt",
+  "version": "1.0.0",
+  "description": "Nuxt.js project",
+  "author": "dimajke",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "precommit": "npm run lint"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "vuetify": "^1.5.21"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^4.19.1",
+    "eslint-friendly-formatter": "^4.0.1",
+    "eslint-loader": "^2.1.1",
+    "eslint-plugin-vue": "^4.0.0",
+    "node-sass": "^4.13.1",
+    "sass-loader": "^8.0.2"
+  }
+}
