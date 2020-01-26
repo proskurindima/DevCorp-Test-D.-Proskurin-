@@ -1,23 +1,20 @@
-# dev_corp_testt
+# dev_corp_test
 
-> Nuxt.js project
+Проект создан на Nuxt.js
 
-## Build Setup
+## Установка
 
 ``` bash
-# install dependencies
-$ npm install # Or yarn install
+# Установка зависимостей
+$ npm install 
 
-# serve with hot reload at localhost:3000
+# Запустить проект в режиме разроботчика
 $ npm run dev
 
-# build for production and launch server
+# Собрать проект на production и запустить на локальном сервере
 $ npm run build
 $ npm start
 
-# generate static project
+# Сгенерировать статичный проект
 $ npm run generate
 ```
-
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
-
